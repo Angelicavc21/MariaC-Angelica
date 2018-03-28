@@ -24,6 +24,13 @@ Feelweather es un app que examina las condiciones del clima y las compará com l
 
 -	Se hizo entrevistas personales para conocer la relación del usuario de la ciudad de Lima con el clima y si le interesaría un app sobre ello.
 
+### Solo nos basamos en tres preguntas básicas
+
+1.¿Qué opinas del clima de la ciudad?
+2.¿Sueles revisar el clima de tu ciudad (temperatura, humedad, etc)?¿Dónde?¿Por qué?
+3.¿Te gustaría utilizar una app que te avise de que acuerdo a tu percepción del clima, te diga cómo estará el día?¿Cómo te lo imaginarias?
+
+
 - Usuario 1 (23 años):
 
    - "No me gusta el verano ni el invierno porque las temperaturas son extremas"
@@ -34,20 +41,20 @@ Feelweather es un app que examina las condiciones del clima y las compará com l
 
 -  Usuario 2 ( años):
 
-   -
-   -
-   -
+   - "Bueno es variable y predecible."
+   - "Realmente no, y si lo hago es porque google me brinda la facilidad para ver y lo hago curiosidad"
+   - "Si me gustaría pero creo que no me es tan importante "
 -  Usuario 3 ( años):
 
-   -
-   -
-   -
+   - "No me gusta que sea muy húmedo"
+   - "Solo cuando estoy de viaje suelo revisar"
+   - " Bueno, mi celular tiene eso pero no me avisa, siempre está en la pantalla principal y se actualiza cada vez que tengo internet"
 
 -	Después de realizar tres entrevistas se consideró que el uso de  la herramienta no iba a ser de ayuda porque:
 
-     - Al promedio de usuarios no muestran interés por tener un app del clima, tampoco a un app relacionado a la percepción individual del usuario.
+    - Al promedio de usuarios no muestran interés por tener un app del clima, tampoco a un app relacionado a la percepción individual del usuario.
 
-     - Los puntos requeridos en el reto (percepción individual del usuario), no era de interés para el usuario.
+    - Los puntos requeridos en el reto (percepción individual del usuario), no era de interés para el usuario.
 
 **Benchmarking**
 
@@ -69,9 +76,9 @@ Feelweather es un app que examina las condiciones del clima y las compará com l
 
 - En base a la lista de componentes y funcionalidades se desarrolló en papel el diseño de la aplicación:
 
- ![prototipo](assets/images/registroo.png)
+ ![prototipo](assets/images/1.jpeg)
 
- ![prototipo](assets/images/tarjeta.png)
+ ![prototipo](assets/images/2.jpeg)
 
  ![prototipo](assets/images/notificaciones.png)
 
@@ -90,8 +97,9 @@ Feelweather es un app que examina las condiciones del clima y las compará com l
 
     - " En cuestion de diseño se ve bien..."
 
- **Usuario 2 ( años)**
-    -
+ **Usuario 2 (25 años)**
+    - "Me parece chevere que la aplicación quiera o de a entender que se preocupe por mi, sin embargo no creo que realmente pueda cumplir con ello, porque todos sentimos diferente"
+    - "Me gusta el flujo, me parece que es muy claro, recomiendo que sea mas personalizado"
 
 ### VI. Prototipado: Interfaz de Alta fidelidad (Marvel y Figma)
 
