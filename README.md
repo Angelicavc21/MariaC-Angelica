@@ -53,6 +53,8 @@ Feelweather es un app que examina las condiciones del clima y las compará com l
 
 - Se elaboró un benchmarking de la apps sobre el clima existente. Esto nos permitió poder ver que estrategias digitales (diseño y funcionalidad) podíamos extraer y adaptarlas a nuestras app.
 
+- Ver benchmarking aquí: https://docs.google.com/spreadsheets/d/1BN2OEfZwCfSR6qPNTuIXQGLki4gyJLtqUfoRHXnC7yI/edit#gid=0
+
 ### II. Ideación
 
 - En base a los puntos requeridos en el reto y la información obtenida en el benchmarking se elaboró la lista de componentes y funcionalidades que tendrá la app:
@@ -81,6 +83,7 @@ Feelweather es un app que examina las condiciones del clima y las compará com l
 -	Nos permitió entender si la propuesta de diseño era fácil de entender.
 
   **Usuario 1 (23 años)**
+
     - "Me parece interesante lo de los rayos UV, ayuda para saber si debería salir en el sol o no..." " podría decirme que precauciones debo tomar deacuerdo al numero que muestran".
 
     - "Cuando te muestra la frase por día de la semana, debe ir acompañado de alguna recomendación como "tendrás frio, no olvides llevar tu abrigo, come chocolates, que se yo".
@@ -88,7 +91,7 @@ Feelweather es un app que examina las condiciones del clima y las compará com l
     - " En cuestion de diseño se ve bien..."
 
  **Usuario 2 ( años)**
-    - 
+    -
 
 ### VI. Prototipado: Interfaz de Alta fidelidad (Marvel y Figma)
 
